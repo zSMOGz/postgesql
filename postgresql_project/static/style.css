@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html,
+
+body {
+    height: calc(100vw + 20px);
+}
+
+.footer {
+    position:fixed;
+    padding: 5px;
+    bottom:0;
+    background-color: white;
+    width: 100%;
+}
